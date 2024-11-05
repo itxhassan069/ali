@@ -1,9 +1,9 @@
 {
-  "name": "hassan-md",
+  "name": "ali",
   "description": "I am hassan-mdWhatsapp",
   "logo": "https://github.com/itxhassan069/hassan-md/blob/main/lib/assets/suhail.jpg?raw=true",
   "keywords": ["whatsappbot","multi device"],
-  "success_url": "/hassan/",
+  "success_url": "/ali/",
   "app_url": "/qr/",
   "stack":"container",
   "env": {
@@ -102,9 +102,7 @@
       "required": false 
     }
   }, 
-  "addons": [{ "plan": "heroku-postgresql:essential-1" }],
   "buildpacks": [
     { "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" },
-    { "url": "https://github.com/carlosdommor/heroku-buildpack-ffmpeg-latest" }
   ]
 }
