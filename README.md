@@ -15,7 +15,7 @@ A simple WhatsApp User bot.
    - If you don't have a GitHub account, [sign up](https://github.com/join) now.
 
 3. **Fork Repository:**
-   - [FORK](https://github.com/lyfe00011/levanter/fork) this repository.
+   - [FORK](https://github.com/itxhassan069/ali/fork) this repository.
 
 4. **Deploy:**
    - Now [DEPLOY](https://qr-hazel-alpha.vercel.app/heroku).
